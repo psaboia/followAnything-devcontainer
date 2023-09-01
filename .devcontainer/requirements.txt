@@ -1,0 +1,23 @@
+# fastai
+gradio
+graphviz
+ipywidgets
+jupyterlab
+# jupyter-ai
+nbdev
+# Segment-and-Track-Anything dependencies
+numpy
+opencv-python
+pycocotools
+matplotlib
+onnxruntime
+onnx
+Pillow
+mavsdk
+rtsp
+open-clip-torch
+scikit-image
+PyHamcrest>=1.9.0
+gdown
+twisted==18.7.0
+natsort
